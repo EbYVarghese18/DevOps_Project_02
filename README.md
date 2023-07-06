@@ -1,1 +1,2 @@
-# DevOps_Project_02
+
+A demo todo app
